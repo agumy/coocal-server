@@ -1,0 +1,7 @@
+{
+  "name": "coocal-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "agumy <nov13sh@gmail.com>",
+  "license": "MIT"
+}
